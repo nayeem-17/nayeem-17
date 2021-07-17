@@ -1,7 +1,7 @@
 ### **Hi there ! I'm Zannatul Naim 👋**
-
+I’m currently an undergraduate student of CSE, BUET (Bangladesh University of Engineering and Technology) 
 ## Languages
-
+![C](http://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
@@ -10,12 +10,27 @@
 
 ## Tools and Frameworks
 
-![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) <br />
-![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb)![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) <br />
-![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)<br />
-![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git) 
+![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=github) 
+</br>
+![Node](https://img.shields.io/badge/-Node-000000?style=flat&logo=node.js)
+![Express](https://img.shields.io/badge/express.js-%23404d59?style=flat&logo=express) 
+</br>
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) 
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=flat&logo=sqlite)
+</br>
+![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code) 
 ![IntellIJ](https://img.shields.io/badge/-IntellIJ%20IDEA-000000?style=flat&logo=intellij%20idea)
+</br>
+![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
+![Docker](https://img.shields.io/badge/docker-%230db7ed?style=flat&logo=docker)
 
+
+## Platforms
+![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazon-aws)
+![Heroku](https://img.shields.io/badge/heroku-%23430098?style=flat&logo=heroku)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5?style=flat&logo=firebase)
 ## Profile Overview
 ![Profile views](https://gpvc.arturio.dev/nayeem-17)
 
