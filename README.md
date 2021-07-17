@@ -36,9 +36,13 @@ I’m currently an undergraduate student of CSE, BUET (Bangladesh University of 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeem-17&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-17&layout=compact&langs_count=10&theme=dark)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nayeem-17&theme=dark)](https://git.io/streak-stats)
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zannatul-naim-418a151b2)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nayeem-17) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](mailto:1805024@ugrad.cse.buet.ac.bd)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohammad.nayeem.24/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zannatul__naim_)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nayeem-17)  
+
+
+<!-- <iframe src="https://ghbtns.com/github-btn.html?user=nayeem-17&repo=nayeem-17&type=star&count=true&size=large" frameborder="0" scrolling="0" width="170" height="30" title="GitHub"></iframe> -->
