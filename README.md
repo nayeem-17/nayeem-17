@@ -19,8 +19,8 @@
 ## Profile Overview
 ![Profile views](https://gpvc.arturio.dev/nayeem-17)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeem-17&show_icons=true&theme=tokyonight&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-17&layout=compact&langs_count=10)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeem-17&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-17&layout=compact&langs_count=10&theme=dark)
 
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zannatul-naim-418a151b2)
