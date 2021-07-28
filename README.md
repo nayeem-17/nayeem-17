@@ -1,5 +1,8 @@
 ### **Hi there ! I'm Zannatul Naim 👋**
 I’m currently an undergraduate student of CSE, BUET (Bangladesh University of Engineering and Technology) 
+- I google at work ¯ \ _ ( ツ ) _ / ¯ 
+- I’m currently learning Unity Engine
+- I’m looking to collaborate on open-source and group projects.
 ## Languages
 ![C](http://img.shields.io/badge/-C-000000?style=flat&logo=c)
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
@@ -35,7 +38,7 @@ I’m currently an undergraduate student of CSE, BUET (Bangladesh University of 
 ![Profile views](https://gpvc.arturio.dev/nayeem-17)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeem-17&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-17&layout=compact&langs_count=10&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-17&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook)
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nayeem-17&theme=dark)](https://git.io/streak-stats)
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zannatul-naim-418a151b2)
