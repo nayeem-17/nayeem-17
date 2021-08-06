@@ -28,6 +28,7 @@ I’m currently an undergraduate student of CSE, BUET (Bangladesh University of 
 </br>
 ![Android](https://img.shields.io/badge/-Android-000000?style=flat&logo=android)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed?style=flat&logo=docker)
+![Terraform](https://img.shields.io/badge/Terraform-623ce4?style=flat&logo=terraform)
 
 
 ## Platforms
