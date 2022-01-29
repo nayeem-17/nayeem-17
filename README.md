@@ -9,6 +9,7 @@ I’m currently an undergraduate student of CSE, BUET (Bangladesh University of 
 ![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/-Typescript-000000?style=flat&logo=typescript)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
 ## Tools and Frameworks
@@ -21,6 +22,8 @@ I’m currently an undergraduate student of CSE, BUET (Bangladesh University of 
 </br>
 ![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb) 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql) 
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql) 
+![Oracle](https://img.shields.io/badge/-Oracle-000000?style=flat&logo=oracle)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=flat&logo=sqlite)
 </br>
 ![Vscode](https://img.shields.io/badge/-VSCode-007acc?style=flat&logo=visual-studio-code) 
