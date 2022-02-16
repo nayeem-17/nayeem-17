@@ -1,7 +1,7 @@
 ### **Hi there ! I'm Zannatul Naim 👋**
 I’m currently an undergraduate student of CSE, BUET (Bangladesh University of Engineering and Technology) 
 - I google at work ¯ \ _ ( ツ ) _ / ¯ 
-- I’m currently learning nothing...
+- I’m currently learning React.Js
 - I’m looking to collaborate on open-source and group projects.
 ## Languages
 ![C](http://img.shields.io/badge/-C-000000?style=flat&logo=c)
