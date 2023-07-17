@@ -1,4 +1,4 @@
-### **Hi there ! I'm Zannatul Naim 👋**
+### **Hi there! I'm Zannatul Naim 👋**
 I’m currently an undergraduate student of CSE, BUET (Bangladesh University of Engineering and Technology) 
 - I google at work ¯ \ _ ( ツ ) _ / ¯ 
 - I’m currently learning [Deep learning](http://introtodeeplearning.com/)
@@ -39,7 +39,7 @@ I’m currently an undergraduate student of CSE, BUET (Bangladesh University of 
 ![Heroku](https://img.shields.io/badge/heroku-%23430098?style=flat&logo=heroku)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5?style=flat&logo=firebase)
 ## Profile Overview
-![Profile views](https://gpvc.arturio.dev/nayeem-17)
+![Profile views](https://komarev.com/ghpvc/?username=nayeem-17)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeem-17&show_icons=true&theme=dark&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-17&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook,PLSQL,html,css)
