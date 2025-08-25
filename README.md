@@ -38,14 +38,14 @@ I’ve graduated with a Bachelor's degree in Computer Science and Engineering fr
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900?style=flat&logo=amazon-aws)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
 ## Profile Overview
-![Profile views](https://komarev.com/ghpvc/?username=nayeem-17)
+![Profile views](https://komarev.com/ghpvc/?username=zannatul-naim-024)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=nayeem-17&show_icons=true&theme=dark&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nayeem-17&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook,PLSQL,html,css)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=nayeem-17&theme=dark)](https://git.io/streak-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zannatul-naim-024&show_icons=true&theme=dark&count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zannatul-naim-024&layout=compact&langs_count=10&theme=dark&hide=Jupyter%20Notebook,PLSQL,html,css)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zannatul-naim-024&theme=dark)](https://git.io/streak-stats)
 ## Connect with me
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/zannatul-naim-418a151b2)
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nayeem-17) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/zannatul-naim-024) 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='github' height='40'>](mailto:mnaim1783@gmail.com)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mohammad.nayeem.24/)
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/zannatul__naim_)
